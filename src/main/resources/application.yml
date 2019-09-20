@@ -1,0 +1,6 @@
+server:
+  port: 7788
+spring:
+  mvc:
+    view:
+      suffix: .jsp
